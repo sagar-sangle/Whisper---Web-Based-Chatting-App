@@ -12,8 +12,10 @@ You can checkout the live version of the application at https://spring-ws-chat.h
 
 **1. Clone the application**
 
+**2. using ecipse or intillij-**
+```no need to have external server just copy and paste the project into the above ide and run mainapplication```
 
-**2. you can run the app directly without packaging it like so -**
+**3. you can run the app directly without packaging it like so -**
 
 ```bash
 mvn spring-boot:run
